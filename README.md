@@ -26,12 +26,17 @@ Walkthrough 🔎
 
 Thank you! 🐑 
 ---
-#### You can find me on
+You can find me on
 
-- [GitHub](https://github.com/anantkaul)
-- [LinkedIn](https://www.linkedin.com/in/anant-kaul/)
-- [Twitter](https://twitter.com/AnantKaul)
-- [YouTube](https://www.youtube.com/channel/UC7bflmCt91Om9HlBZDcTAmw)
+[<img align="middle" alt="codeSTACKr | LinkedIn" width="50px" src="https://img.icons8.com/plasticine/200/000000/github.png"/>][GitHub]
+[<img align="middle" alt="codeSTACKr | LinkedIn" width="42px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="middle" alt="codeSTACKr | Twitter" width="42px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="middle" alt="codeSTACKr | Youtube" width="42px" src="https://img.icons8.com/color/youtube" />][youtube]
+
+[GitHub]: https://github.com/anantkaul
+[LinkedIn]: https://www.linkedin.com/in/anant-kaul/
+[Twitter]: https://twitter.com/AnantKaul
+[YouTube]: https://www.youtube.com/channel/UC7bflmCt91Om9HlBZDcTAmw
 
 
 ###### tags: `Mobile` `Android` `Pentesting` `InjuredAndroid`
