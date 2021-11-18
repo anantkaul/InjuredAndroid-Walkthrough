@@ -27,7 +27,7 @@ Walkthrough 🔎
 Discord **{Flag}** Special ✨
 ---
 Interested in Cyber Security & CTFs? [<img align="right" width="150px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
-Click the Icon on your right & Get a chance to be a part of our ***{Flag}*** Community !!<br>
+Click the *Discord Gear* on your right & Get a chance to be a part of our ***{Flag}*** Community !!<br>
 
 Hurry up 🏃<br>
 Server Invite valid for first 💯 Hackers only !!<br> 
