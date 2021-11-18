@@ -1,0 +1,17 @@
+console.log("Script loaded successfully ");
+Java.perform(function x() {
+    console.log("Inside java perform function");
+    var my_class = Java.use("b3nac.injuredandroid.k");
+    
+    var string_class = Java.use("java.lang.String");
+
+    my_class.a.overload("java.lang.String").implementation = function (x) { 
+        var my_string = string_class.$new("k3FElEG9lnoWbOateGhj5pX6QsXRNJKh///8Jxi8KXW7iDpk2xRxhQ==");
+        console.log("Original arg: " + x);
+        var ret = this.a(my_string);
+        console.log("Return value: " + ret);
+        console.log("Anant Kaul Cracked Lab 6 !!");
+        return ret;
+    };
+    
+});

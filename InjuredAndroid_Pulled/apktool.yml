@@ -1,0 +1,37 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: InjuredAndroid_Pulled.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  androidsupportmultidexversion.txt: '8'
+  build-data.properties: '8'
+  firebase-auth-interop.properties: '8'
+  firebase-auth.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-database-collection.properties: '8'
+  firebase-database.properties: '8'
+  firebase-firestore.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-tasks.properties: '8'
+  protolite-well-known-types.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.0
+versionInfo:
+  versionCode: '17'
+  versionName: 1.0.9

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TableLayout android:gravity="center" android:orientation="horizontal" android:layout_width="323.0dip" android:layout_height="401.0dip" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.5" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/button10" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_1" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button12" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_2" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button13" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_3" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/button14" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_4" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button15" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_5" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button16" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_6" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/button17" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_7" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button18" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_8" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button19" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_9" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/button20" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_10" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button21" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_11" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button22" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_12" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/button37" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_13" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button38" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_14" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button41" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_15" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/button43" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_16" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <Button android:id="@id/button46" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/flag_17" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+        </TableRow>
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
