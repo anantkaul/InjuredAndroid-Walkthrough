@@ -4,7 +4,7 @@ Welcome to the Walkthrough/Guide for the InjuredAndroid Application (Official La
 
 Walkthrough 🔎 
 ---
-#### Always __"Open Image in New Tab"__ For a Clear View !!
+#### Always ***"Open Image in New Tab"*** For a Clear View !!
 - [Basic XSS](/IA_Flags/PoC/Basic-XSS.png)
 - [Flag 01](/IA_Flags/PoC/Flag-01.png)
 - [Flag 02](/IA_Flags/PoC/Flag-02.png)
@@ -24,19 +24,30 @@ Walkthrough 🔎
 - [Flag 16](/IA_Flags/PoC/Flag-16.png)
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
+Discord Invite Special ✨
+---
+Interested in Cyber Security & CTFs? [<img align="right" width="150px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
+Click the Icon on your right & Get a chance to be a part of our ***{Flag}*** Community !!<br>
+
+Hurry up 🏃<br>
+Server Invite valid for first 💯 Hackers only ..<br> 
+***Let's Hack & CTF !!***
+
 Thank you! 🐑 
 ---
-You can find me on
+**You can find me on**
 
-[<img align="middle" alt="codeSTACKr | LinkedIn" width="50px" src="https://img.icons8.com/plasticine/200/000000/github.png"/>][GitHub]
-[<img align="middle" alt="codeSTACKr | LinkedIn" width="42px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="middle" alt="codeSTACKr | Twitter" width="42px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="middle" alt="codeSTACKr | Youtube" width="42px" src="https://img.icons8.com/color/youtube" />][youtube]
+[<img align="middle" alt="GitHub" width="42px" src="https://img.icons8.com/color/48/000000/github-2.png"/>][GitHub]
+[<img align="middle" alt="Discord" width="42px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png"/>][Discord]
+[<img align="middle" alt="LinkedIn" width="42px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="middle" alt="Twitter" width="42px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="middle" alt="Youtube" width="42px" src="https://img.icons8.com/color/youtube" />][youtube]
 
 [GitHub]: https://github.com/anantkaul
+[Discord]: https://discordapp.com/users/4N4N7#8325
 [LinkedIn]: https://www.linkedin.com/in/anant-kaul/
 [Twitter]: https://twitter.com/AnantKaul
-[YouTube]: https://www.youtube.com/channel/UC7bflmCt91Om9HlBZDcTAmw
-
+[YouTube]: https://www.youtube.com/channel/UC7bflmCt91Om9HlBZDcTAmw 
+[Invite]: https://discord.gg/2S8CHuqphD
 
 ###### tags: `Mobile` `Android` `Pentesting` `InjuredAndroid`
