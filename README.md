@@ -2,8 +2,9 @@
 
 Welcome to the Walkthrough/Guide for the InjuredAndroid Application (Official Latest PlayStore version as of November, 2021). <br>Let's Go & CTF 🚩 with some spoilers !!
 
-Walkthrough 🔎 (Open Image in New Tab)
+Walkthrough 🔎 
 ---
+#### Always __"Open Image in New Tab"__ For a Clear View !!
 - [Basic XSS](/IA_Flags/PoC/Basic-XSS.png)
 - [Flag 01](/IA_Flags/PoC/Flag-01.png)
 - [Flag 02](/IA_Flags/PoC/Flag-02.png)
@@ -23,7 +24,7 @@ Walkthrough 🔎 (Open Image in New Tab)
 - [Flag 16](/IA_Flags/PoC/Flag-16.png)
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
-Thank you! :sheep: 
+Thank you! 🐑 
 ---
 #### You can find me on
 
