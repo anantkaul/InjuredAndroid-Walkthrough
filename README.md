@@ -3,7 +3,6 @@
 Welcome to the Walkthrough/Guide for the InjuredAndroid Application (Official Latest PlayStore version as of November, 2021).
 #### Let's Go & CTF 🚩 with some spoilers !!
 
----
 Documentation
 ---
 * [Requirements 📌](../../#requirements-)
