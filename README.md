@@ -62,7 +62,7 @@ Open with [SQLite DB Browser](https://sqlitebrowser.org/dl/) (Flag 09)
 ---
 Discord **{Flag}** Special ✨
 ---
-Interested in Cyber Security & CTFs? [<img align="right" width="170px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
+Interested in Cyber Security & CTFs? [<img align="right" width="168px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
 Click the *Discord Gear* on your right & Get a chance to be a part of our ***{Flag}*** Community !!<br>
 
 Hurry up 🏃<br>
