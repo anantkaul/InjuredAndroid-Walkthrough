@@ -30,7 +30,7 @@ Interested in Cyber Security & CTFs? [<img align="right" width="150px" src="http
 Click the Icon on your right & Get a chance to be a part of our ***{Flag}*** Community !!<br>
 
 Hurry up 🏃<br>
-Server Invite valid for first 💯 Hackers only ..<br> 
+Server Invite valid for first 💯 Hackers only !!<br> 
 ***Let's Hack & CTF !!***
 
 Thank you! 🐑 
