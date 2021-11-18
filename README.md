@@ -2,6 +2,24 @@
 
 Welcome to the Walkthrough/Guide for the InjuredAndroid Application (Official Latest PlayStore version as of November, 2021). <br>Let's Go & CTF 🚩 with some spoilers !!
 
+Requirements 📌
+---
+- [Java 9+](https://www.oracle.com/java/technologies/downloads/)
+- [Python3](https://www.python.org/downloads/)
+- [Android Studio](https://developer.android.com/studio)
+
+Tools Used 🛠️
+---
+- [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
+- [Apktool](https://ibotpeaches.github.io/Apktool/install/)
+- [Jadx](/Tools_Used/jadx) or [Jadx-Gui (exe)](/Tools_Used/jadx-gui-1.2.0-no-jre-win.exe)
+- [Objection](https://github.com/sensepost/objection)
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+- [Ghidra](https://ghidra-sre.org/)
+- [Cloud Enum](/Tools_Used/Enum_Tools/cloud_enum)
+- [Firebase Enum](/Tools_Used/Enum_Tools/firebaseEnum)
+- [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+
 Walkthrough 🔎 
 ---
 #### Always ***"Open Image in New Tab"*** For a Clear View !!
@@ -24,23 +42,23 @@ Walkthrough 🔎
 - [Flag 16](/IA_Flags/PoC/Flag-16.png)
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
-Requirements 📌
----
-- [Java 9+](https://www.oracle.com/java/technologies/downloads/)
-- [Python3](https://www.python.org/downloads/)
-- [Android Studio](https://developer.android.com/studio)
+Flags Cheet Sheet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉[✖️](IA_Flags/Flags.txt)👈
 
-Tools Used 🛠️
+MobSF Automated Reports
 ---
-- [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
-- [Apktool](https://ibotpeaches.github.io/Apktool/install/)
-- [Jadx](/Tools_Used/jadx) or [Jadx-Gui (exe)](/Tools_Used/jadx-gui-1.2.0-no-jre-win.exe)
-- [Objection](https://github.com/sensepost/objection)
-- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-- [Ghidra](https://ghidra-sre.org/)
-- [Cloud Enum](/Tools_Used/Enum_Tools/cloud_enum)
-- [Firebase Enum](/Tools_Used/Enum_Tools/firebaseEnum)
-- [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+- [Static Analysis](/IA_Flags/MobSF_StaticReport.pdf)
+- [Dynamic Analysis](/IA_Flags/MobSF_DynamicReport.pdf)
+
+Exploits Used 
+---
+- [Frida Code](/IA_Flags/Frida_Payload_Script.txt) (Flag 06)
+- [RCE Exploit](IA_Flags/rce_exploit.txt) (Flag 13)
+
+Databases Explored (Flag 09)
+---
+Open with [SQLite DB Browser](https://sqlitebrowser.org/dl/)
+- [Thisisatest.db](/databases/Thisisatest.db)
+- [Thisisatest.db-journal](/databases/Thisisatest.db-journal)
 
 Discord **{Flag}** Special ✨
 ---
