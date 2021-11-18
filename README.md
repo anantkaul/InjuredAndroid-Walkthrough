@@ -24,10 +24,16 @@ Walkthrough 🔎
 - [Flag 16](/IA_Flags/PoC/Flag-16.png)
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
-Tools Used
+Requirements 📌
 ---
+- [Java 9+](https://www.oracle.com/java/technologies/downloads/)
+- [Python3](https://www.python.org/downloads/)
 - [Android Studio](https://developer.android.com/studio)
+
+Tools Used 🛠️
+---
 - [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
+- [Apktool](https://ibotpeaches.github.io/Apktool/install/)
 - [Jadx](/Tools_Used/jadx) or [Jadx-Gui (exe)](/Tools_Used/jadx-gui-1.2.0-no-jre-win.exe)
 - [Objection](https://github.com/sensepost/objection)
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
