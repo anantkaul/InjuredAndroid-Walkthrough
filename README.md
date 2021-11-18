@@ -24,6 +24,18 @@ Walkthrough 🔎
 - [Flag 16](/IA_Flags/PoC/Flag-16.png)
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
+Tools Used
+---
+- [Android Studio](https://developer.android.com/studio)
+- [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
+- [Jadx](/Tools_Used/jadx) or [Jadx-Gui (exe)](/Tools_Used/jadx-gui-1.2.0-no-jre-win.exe)
+- [Objection](https://github.com/sensepost/objection)
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+- [Ghidra](https://ghidra-sre.org/)
+- [Cloud Enum](/Tools_Used/Enum_Tools/cloud_enum)
+- [Firebase Enum](/Tools_Used/Enum_Tools/firebaseEnum)
+- [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+
 Discord **{Flag}** Special ✨
 ---
 Interested in Cyber Security & CTFs? [<img align="right" width="150px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
