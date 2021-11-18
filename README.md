@@ -1,7 +1,11 @@
 # Android Pentesting with InjuredAndroid   
 
-Welcome to the Walkthrough/Guide for the InjuredAndroid Application (Official Latest PlayStore version as of November, 2021). <br>Let's Go & CTF 🚩 with some spoilers !!
+Welcome to the Walkthrough/Guide for the InjuredAndroid Application (Official Latest PlayStore version as of November, 2021).
+#### Let's Go & CTF 🚩 with some spoilers !!
 
+- [Requirements](../#requirements-)
+
+---
 Requirements 📌
 ---
 - [Java 9+](https://www.oracle.com/java/technologies/downloads/)
