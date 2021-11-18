@@ -3,7 +3,18 @@
 Welcome to the Walkthrough/Guide for the InjuredAndroid Application (Official Latest PlayStore version as of November, 2021).
 #### Let's Go & CTF 🚩 with some spoilers !!
 
-- [Requirements](../../#requirements-)
+---
+Documentation
+---
+* [Requirements 📌](../../#requirements-)
+* [Tools Used 🛠️](../../#tools-used-%EF%B8%8F)
+* [Walkthrough 🔎](../../#walkthrough-)
+  - [Flags Cheet Sheet ❌](../../#flags-cheet-sheet-%EF%B8%8F)
+* [MobSF Reports 📋](../../#mobsf-reports-)
+* [Exploits Used ☠️](../../#exploits-used-%EF%B8%8F)
+* [Databases Explored 🗃️](../../#databases-explored-%EF%B8%8F)
+* [Discord **{Flag}** Special ✨](../../#discord-flag-special-)
+* [Thank you! 🐑](../../#lets--hack--ctf-)
 
 ---
 Requirements 📌
