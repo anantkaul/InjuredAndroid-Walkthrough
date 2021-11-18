@@ -44,7 +44,7 @@ Walkthrough 🔎
 
 ### Flags Cheet Sheet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉[✖️](IA_Flags/Flags.txt)👈
 ---
-MobSF Reports 📝
+MobSF Reports 📋
 ---
 - [Static Analysis](/IA_Flags/MobSF_StaticReport.pdf)
 - [Dynamic Analysis](/IA_Flags/MobSF_DynamicReport.pdf)
