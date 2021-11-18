@@ -19,7 +19,7 @@ Tools Used 🛠️
 - [Cloud Enum](/Tools_Used/Enum_Tools/cloud_enum)
 - [Firebase Enum](/Tools_Used/Enum_Tools/firebaseEnum)
 - [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
-
+---
 Walkthrough 🔎 
 ---
 #### Always ***"Open Image in New Tab"*** For a Clear View !!
@@ -43,7 +43,7 @@ Walkthrough 🔎
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
 ### Flags Cheet Sheet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉[✖️](IA_Flags/Flags.txt)👈
-
+---
 MobSF Reports 📝
 ---
 - [Static Analysis](/IA_Flags/MobSF_StaticReport.pdf)
@@ -59,16 +59,16 @@ Databases Explored 🗃️
 Open with [SQLite DB Browser](https://sqlitebrowser.org/dl/) (Flag 09)
 - [Thisisatest.db](/databases/Thisisatest.db)
 - [Thisisatest.db-journal](/databases/Thisisatest.db-journal)
-
+---
 Discord **{Flag}** Special ✨
 ---
-Interested in Cyber Security & CTFs? [<img align="right" width="150px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
+Interested in Cyber Security & CTFs? [<img align="right" width="160px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
 Click the *Discord Gear* on your right & Get a chance to be a part of our ***{Flag}*** Community !!<br>
 
 Hurry up 🏃<br>
 Server Invite valid for first 💯 Hackers only !!<br> 
-#### *Let's 👽 Hack & CTF 🚩*
-
+### *Let's 👽 Hack & CTF 🚩*
+---
 Thank you! 🐑 
 ---
 **You can find me on**
