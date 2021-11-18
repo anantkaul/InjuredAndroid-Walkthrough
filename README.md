@@ -24,7 +24,7 @@ Walkthrough 🔎
 - [Flag 16](/IA_Flags/PoC/Flag-16.png)
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
-Discord Invite Special ✨
+Discord **{Flag}** Special ✨
 ---
 Interested in Cyber Security & CTFs? [<img align="right" width="150px" src="https://img.icons8.com/bubbles/200/000000/discord-logo.png"/>][Invite]<br>
 Click the Icon on your right & Get a chance to be a part of our ***{Flag}*** Community !!<br>
