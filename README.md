@@ -44,17 +44,17 @@ Walkthrough 🔎
 
 ### Flags Cheet Sheet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉[✖️](IA_Flags/Flags.txt)👈
 
-MobSF Automated Reports
+MobSF Automated Reports 📜
 ---
 - [Static Analysis](/IA_Flags/MobSF_StaticReport.pdf)
 - [Dynamic Analysis](/IA_Flags/MobSF_DynamicReport.pdf)
 
-Exploits Used 
+Exploits Used ☠️
 ---
 - [Frida Code](/IA_Flags/Frida_Payload_Script.txt) (Flag 06)
 - [RCE Exploit](IA_Flags/rce_exploit.txt) (Flag 13)
 
-Databases Explored (Flag 09)
+Databases Explored (Flag 09) 🗃️
 ---
 Open with [SQLite DB Browser](https://sqlitebrowser.org/dl/)
 - [Thisisatest.db](/databases/Thisisatest.db)
@@ -67,7 +67,7 @@ Click the *Discord Gear* on your right & Get a chance to be a part of our ***{Fl
 
 Hurry up 🏃<br>
 Server Invite valid for first 💯 Hackers only !!<br> 
-***Let's Hack & CTF !!***
+#### *Let's 👽 Hack & CTF 🚩*
 
 Thank you! 🐑 
 ---
