@@ -67,7 +67,7 @@ Click the *Discord Gear* on your right & Get a chance to be a part of our ***{Fl
 
 Hurry up 🏃<br>
 Server Invite valid for *First* 💯 Hackers only !!<br> 
-### *Let's 👽 Hack & CTF 🚩*
+### *Let's 👽 Hack & CTF &nbsp;🚩*
 ---
 Thank you! 🐑 
 ---
