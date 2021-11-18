@@ -42,7 +42,7 @@ Walkthrough 🔎
 - [Flag 16](/IA_Flags/PoC/Flag-16.png)
 - [Flag 17](/IA_Flags/PoC/Flag-17.png)
 
-### Flags Cheet Sheet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉[✖️](IA_Flags/Flags.txt)👈
+### Flags Cheet Sheet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉[✖️](IA_Flags/Flags.md)👈
 ---
 MobSF Reports 📋
 ---
