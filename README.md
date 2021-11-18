@@ -44,7 +44,7 @@ Walkthrough 🔎
 
 ### Flags Cheet Sheet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉[✖️](IA_Flags/Flags.txt)👈
 
-MobSF Automated Reports 📜
+MobSF Automated Reports 📝
 ---
 - [Static Analysis](/IA_Flags/MobSF_StaticReport.pdf)
 - [Dynamic Analysis](/IA_Flags/MobSF_DynamicReport.pdf)
@@ -54,9 +54,9 @@ Exploits Used ☠️
 - [Frida Code](/IA_Flags/Frida_Payload_Script.txt) (Flag 06)
 - [RCE Exploit](IA_Flags/rce_exploit.txt) (Flag 13)
 
-Databases Explored (Flag 09) 🗃️
+Databases Explored 🗃️  
 ---
-Open with [SQLite DB Browser](https://sqlitebrowser.org/dl/)
+Open with [SQLite DB Browser](https://sqlitebrowser.org/dl/) (Flag 09)
 - [Thisisatest.db](/databases/Thisisatest.db)
 - [Thisisatest.db-journal](/databases/Thisisatest.db-journal)
 
