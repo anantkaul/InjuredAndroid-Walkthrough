@@ -33,6 +33,7 @@ Tools Used 🛠️
 - [Cloud Enum](/Tools_Used/Enum_Tools/cloud_enum)
 - [Firebase Enum](/Tools_Used/Enum_Tools/firebaseEnum)
 - [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+- [BurpSuite](https://portswigger.net/burp)
 ---
 Walkthrough 🔎 
 ---
